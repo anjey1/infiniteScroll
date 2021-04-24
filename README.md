@@ -1,5 +1,8 @@
 # infinite-scroll
 
+#DEMO
+https://infinite-scroll-224433.herokuapp.com/
+
 ## Project setup
 ```
 npm install
